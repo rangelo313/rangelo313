@@ -2,7 +2,7 @@
 
 ### Hi there I am Robert 👋
 
-I'm an Application Security Engineer 💻, Currently in final year  at New York University 👨‍🎓
+I'm an Application Security Engineer 💻, Currently in final year of my Master's program at New York University 👨‍🎓
 
 - 🔭 I’m currently working on Burpsuite Learning Academy
 - 🌱 I’m currently learning about smart contract vulnerabilities
