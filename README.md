@@ -12,6 +12,9 @@ I'm an Application Security Engineer 💻, Currently in final year  at New York 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rcimarelli.com)](mailto:rc4544@nyu.edu)
 - ⚡ Fun fact: I like Rubik's Cubes
 
+## Github History 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rangelo313)](https://github.com/rangelo313/github-profile-trophy)
+
 
 ### Check more about me here 🌟 
 
